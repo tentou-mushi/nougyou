@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur aliquam sapien metus, placerat ultricies mauris feugiat sed. Vestibulum egestas dapibus mauris vel laoreet. Phasellus ac consequat nisl, eget facilisis lacus. Nulla id pretium urna. Phasellus vel mi auctor, venenatis justo vitae, finibus est. Proin ac lectus quis odio consectetur ullamcorper eu at est. Nunc dui ante, rhoncus eget venenatis eu, finibus at ipsum. Donec quis lorem vulputate, aliquam mi suscipit, ultricies libero. Etiam eu quam sodales odio pharetra ullamcorper faucibus sed felis. Donec et laoreet leo. In nisl ipsum, vehicula a eleifend nec, auctor eu ex. Aliquam luctus cursus rhoncus.
 

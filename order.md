@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Vegetable Baskets
 
 Aenean risus magna, ornare sit amet neque nec, condimentum pretium magna. Ut ac nibh eget nunc tristique mattis at in justo. Nullam sed arcu bibendum, tincidunt ex vel, vulputate massa. Aliquam erat volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Cras cursus odio scelerisque placerat finibus. Vestibulum suscipit felis id scelerisque ullamcorper. Phasellus ipsum massa, porta id erat iaculis, varius imperdiet turpis. Proin vitae condimentum nibh. Phasellus molestie mi non purus mollis, et tristique elit laoreet. 

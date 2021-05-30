@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 ## Post 1
 
